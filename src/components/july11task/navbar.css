@@ -1,0 +1,19 @@
+.ram
+{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items: center;
+    align-content: space-evenly;
+    width:100%;
+    font-size: large;
+    background-color:green;
+    color:black;
+    
+}
+.ram ul li{
+    list-style-type:none;
+    display: inline;
+    padding:50px;
+    text-align: center;
+}

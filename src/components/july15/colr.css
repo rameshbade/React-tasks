@@ -1,0 +1,12 @@
+.container1{
+    width:100px;
+    height:50px;
+    background-color:red;
+    border:1px solid black;
+}
+.container2{
+    width:100px;
+    height:50px;
+    background-color:yellow;
+    border:1px solid black;
+}
