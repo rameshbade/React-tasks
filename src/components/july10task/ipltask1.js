@@ -12,7 +12,7 @@ const Ipltask1=()=>
             Data.map((eachitem)=>{
                 
                 return(
-                <div style={{border:"1px solid black",width:"500px",height:"400px", margin:"20px", borderRadius:"10%",backgroundColor:"green", textAlign:"center"}}>
+                <div style={{border:"1px solid black",width:"500px",height:"400px", margin:"50px", borderRadius:"10%",backgroundColor:"green", textAlign:"center"}}>
                     <Heading1 title={eachitem.TeamName} ></Heading1>
                     <Image source={eachitem.LOGO} alt="" width={200} height={200}></Image>
                     <Heading1 title={eachitem.TROPIES}></Heading1>

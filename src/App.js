@@ -12,6 +12,7 @@ import Samsung from './components/july25/samsungtask';
 import Abd from './components/practice/ptask4';
 import Cards from './components/july9task/cards';
 import Tables from './components/july9task/table';
+import Ipltask1 from './components/july10task/ipltask1';
 
 
 
@@ -44,8 +45,10 @@ import Tables from './components/july9task/table';
       {/* <Uncontrolled></Uncontrolled> */}
       {/* <Validation></Validation> */}
       {/* <Kohli></Kohli> */}
-      <Cards></Cards>
-      <Tables></Tables>
+      {/* <Cards></Cards>
+      <Tables></Tables> */}
+      <Ipltask1></Ipltask1>
+
       
      
 
